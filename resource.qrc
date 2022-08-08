@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icons/adjust.png</file>
+        <file>icons/backward.png</file>
+        <file>icons/calendar.png</file>
+        <file>icons/check.png</file>
+        <file>icons/chevron-left.png</file>
+        <file>icons/chevron-right.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/file.png</file>
+        <file>icons/forward.png</file>
+        <file>icons/move.png</file>
+        <file>icons/play-circle.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/remove.png</file>
+        <file>icons/save.png</file>
+        <file>icons/star.png</file>
+        <file>icons/tree.png</file>
+        <file>icons/zoom-in.png</file>
+        <file>icons/zoom-out.png</file>
+        <file>icons/grid.png</file>
+    </qresource>
+</RCC>
